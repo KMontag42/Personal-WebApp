@@ -1,4 +1,4 @@
-ft-style-offline-web-app-part-1
+Personal WebApp
 ===============================
 
 Personal Web App for Tinkering
